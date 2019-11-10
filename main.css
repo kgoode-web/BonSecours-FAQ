@@ -1,0 +1,20 @@
+sample_student_assignments {
+background-color: #595959
+padding: 5px;
+}
+
+annotated_bibliography, mapping_the_conversation, final_project {
+  display: block;
+  border: 2px solid black;
+  height: 200px;
+  width: 500px;
+  padding: 10px;
+  background-color: white;
+}
+
+topic, grade_received, project_title, grade_received, semester, medium {
+  display: block;
+  font-family: Arial;
+  font-size: 12pt;
+  color: black;
+}
